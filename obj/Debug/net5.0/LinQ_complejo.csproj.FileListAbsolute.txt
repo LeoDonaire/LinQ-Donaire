@@ -1,0 +1,48 @@
+C:\Users\Fran\Desktop\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.exe
+C:\Users\Fran\Desktop\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.deps.json
+C:\Users\Fran\Desktop\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.runtimeconfig.json
+C:\Users\Fran\Desktop\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.runtimeconfig.dev.json
+C:\Users\Fran\Desktop\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.dll
+C:\Users\Fran\Desktop\LinQ_complejo\bin\Debug\net5.0\ref\LinQ_complejo.dll
+C:\Users\Fran\Desktop\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.pdb
+C:\Users\Fran\Desktop\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.csprojAssemblyReference.cache
+C:\Users\Fran\Desktop\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fran\Desktop\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.AssemblyInfoInputs.cache
+C:\Users\Fran\Desktop\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.AssemblyInfo.cs
+C:\Users\Fran\Desktop\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.csproj.CoreCompileInputs.cache
+C:\Users\Fran\Desktop\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.dll
+C:\Users\Fran\Desktop\LinQ_complejo\obj\Debug\net5.0\ref\LinQ_complejo.dll
+C:\Users\Fran\Desktop\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.pdb
+C:\Users\Fran\Desktop\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.genruntimeconfig.cache
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.exe
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.deps.json
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.runtimeconfig.json
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.dll
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\bin\Debug\net5.0\ref\LinQ_complejo.dll
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\bin\Debug\net5.0\LinQ_complejo.pdb
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.dll
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\obj\Debug\net5.0\ref\LinQ_complejo.dll
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.pdb
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_complejo\obj\Debug\net5.0\LinQ_complejo.genruntimeconfig.cache
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\obj\Debug\net5.0\LinQ_complejo.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\obj\Debug\net5.0\LinQ_complejo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\obj\Debug\net5.0\LinQ_complejo.AssemblyInfoInputs.cache
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\obj\Debug\net5.0\LinQ_complejo.AssemblyInfo.cs
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\obj\Debug\net5.0\LinQ_complejo.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\obj\Debug\net5.0\LinQ_complejo.dll
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\obj\Debug\net5.0\ref\LinQ_complejo.dll
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\obj\Debug\net5.0\LinQ_complejo.pdb
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\bin\Debug\net5.0\LinQ_complejo.exe
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\bin\Debug\net5.0\LinQ_complejo.deps.json
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\bin\Debug\net5.0\LinQ_complejo.runtimeconfig.json
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\bin\Debug\net5.0\LinQ_complejo.runtimeconfig.dev.json
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\bin\Debug\net5.0\LinQ_complejo.dll
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\bin\Debug\net5.0\ref\LinQ_complejo.dll
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\bin\Debug\net5.0\LinQ_complejo.pdb
+C:\Users\Leonardo\Desktop\tp comIT\Trabajos del Profe\LinQ_LeoDonaire\obj\Debug\net5.0\LinQ_complejo.genruntimeconfig.cache
